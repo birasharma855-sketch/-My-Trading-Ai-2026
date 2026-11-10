@@ -1,0 +1,6 @@
+{
+  "name": "TradePro AI India",
+  "description": "Professional NSE/BSE stock market analytics, live/delayed quotes, interactive candlestick charts, liquidity analyzer, and bilingual English & Hindi AI trading assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

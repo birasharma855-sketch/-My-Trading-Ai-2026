@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TradePro AI</string>
+    <string name="app_full_name">TradePro AI India</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_markets">Markets</string>
+    <string name="nav_watchlist">Watchlist</string>
+    <string name="nav_portfolio">Portfolio</string>
+    <string name="nav_ai_assistant">AI Assistant</string>
+    <string name="nav_more">More</string>
+    <string name="disclaimer_notice">DEMO &amp; EDUCATIONAL USE ONLY: Not SEBI registered investment advice. Market investments are subject to risk. Never risk money you cannot afford to lose.</string>
+</resources>
